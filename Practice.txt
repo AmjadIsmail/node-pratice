@@ -1,0 +1,15 @@
+https://www.freecodecamp.org/news/how-to-create-a-react-app-with-a-node-backend-the-complete-guide/
+
+npm init -y
+
+npm i express
+
+"scripts": {
+  "start": "node server/index.js"
+},
+
+
+/* ui framework*
+npm install --save express3-handlebars 
+
+--- Book Page number 47 ---
